@@ -9,7 +9,7 @@ image: /assets/img/posts/clustering.png
 
 # 클러스터링(Clustering)
 
-https://scikit-learn.org/stable/modules/clustering.html
+[scikit-learn 클러스터링](https://scikit-learn.org/stable/modules/clustering.html)
 
 클러스터링은 데이터의 내재된 구조를 파악하는 데 중요한 역할을 하는 비지도 학습 기법입니다. 이 문서는 클러스터링의 다양한 방법들과 그 특징들을 탐색합니다.
 
@@ -115,7 +115,7 @@ DBSCAN은 밀도 기반 클러스터링을 통해 다양한 형태의 클러스�
 - **자카드 지수 (Jaccard Index)**: 클러스터 간의 유사성과 다양성을 측정하는 데 사용됩니다. 이 지수는 교집합과 합집합의 비율로 계산됩니다.
   ```
   Jaccard Index = (Intersection of Clusters) / (Union of Clusters)
-
+  ```
 ## 5. 클러스터링 알고리즘 비교
 
 | 알고리즘 | 장점 | 단점 |
