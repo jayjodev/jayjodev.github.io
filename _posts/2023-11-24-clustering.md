@@ -1,5 +1,5 @@
 ---
-title: 기계학습 기초[클러스터링]
+title: 기계학습 기초 (클러스터링)
 author: Jay Jo
 date: 2023-11-24 00:00:00 +09:00
 categories: [Artificial Intelligence]

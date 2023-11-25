@@ -11,7 +11,6 @@ image: /assets/img/posts/Chirpy Jekyll Theme for Blog.png
 
 [https://chirpy.cotes.page/posts/getting-started](https://chirpy.cotes.page/posts/getting-started/)
 
-
 ## 목차
 1. [Jekyll과 GitHub Pages 소개](#jekyll과-github-pages-소개)
 2. [Windows 10 기준 설치법](#windows-10-기준-설치법)
