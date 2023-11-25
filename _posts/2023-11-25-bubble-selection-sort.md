@@ -1,5 +1,5 @@
 ---
-title: 버블 정렬, 선택 정렬 및 삽입 정렬 (Bubble, Selection, and Insertion Sort)
+title: 버블 정렬(Bubble Sort) 선택 정렬(Selection Sort)
 author: Jay Jo
 date: 2023-11-25 00:00:00 +09:00
 categories: [Algorithms]
@@ -7,7 +7,7 @@ tags: [algorithms]
 image: /assets/img/posts/basic-sort.png
 ---
 
-# 기본 정렬 알고리즘 [버블 정렬, 선택 정렬 및 삽입 정렬]
+# 기본 정렬 알고리즘 [버블 정렬(Bubble Sort), 선택 정렬(Selection Sort)]
 
 1. [버블 정렬 (Bubble Sort)](#버블-정렬-bubble-sort)
    - [정의](#정의)
@@ -19,11 +19,6 @@ image: /assets/img/posts/basic-sort.png
    - [작동 원리](#작동-원리-1)
    - [알고리즘 복잡도](#알고리즘-복잡도-1)
    - [예시 코드](#예시-코드-1)
-3. [삽입 정렬 (Insertion Sort)](#삽입-정렬-insertion-sort)
-   - [정의](#정의-2)
-   - [작동 원리](#작동-원리-2)
-   - [알고리즘 복잡도](#알고리즘-복잡도-2)
-   - [예시 코드](#예시-코드-2)
 
 <a name="버블-정렬-bubble-sort"></a>
 ## 버블 정렬 (Bubble Sort)
@@ -79,33 +74,5 @@ def selection_sort(arr):
             if arr[j] < arr[min_idx]:
                 min_idx = j
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
-    return arr
-```
-<a name="삽입-정렬-insertion-sort"></a>
-
-## 삽입 정렬 (Insertion Sort)
-### 정의
-삽입 정렬은 각 요소를 이미 정렬된 배열 부분에 적절한 위치에 삽입하는 방식으로 작동하는 정렬 방법입니다.
-
-### 작동 원리
-1. 두 번째 요소부터 시작하여, 해당 요소를 그 이전의 요소들과 비교합니다.
-2. 요소가 이전의 요소보다 작으면, 그 요소의 앞으로 이동합니다.
-3. 이 과정을 모든 요소에 대해 반복합니다.
-4. 배열의 모든 요소가 올바른 순서로 정렬될 때까지 이 과정을 반복합니다.
-### 알고리즘 복잡도
-- 최악의 경우 시간 복잡도: O(n^2)
-- 최선의 경우 시간 복잡도: O(n)
-- 평균 시간 복잡도: O(n^2)
-- 공간 복잡도: O(1)
-### 예시 코드
-```python
-def insertion_sort(arr):
-    for i in range(1, len(arr)):
-        key = arr[i]
-        j = i-1
-        while j >=0 and key < arr[j] :
-                arr[j + 1] = arr[j]
-                j -= 1
-        arr[j + 1] = key
     return arr
 ```
