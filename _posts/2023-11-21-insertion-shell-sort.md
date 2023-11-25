@@ -1,7 +1,7 @@
 ---
 title: 삽입 정렬(Insertion Sort) 및 쉘 정렬(shell Sort)
 author: Jay Jo
-date: 2023-11-25 00:00:00 +09:00
+date: 2023-11-21 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
 image: /assets/img/posts/basic-sort1.png
