@@ -9,7 +9,6 @@ image: /assets/img/posts/dev-env.png
 
 # AI 학습 을 위한 개발 환경 구축
 
-
 ### 개발 플랫폼
 1. Anaconda & Jupyter Notebook
 
