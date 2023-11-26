@@ -14,13 +14,13 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jay Jo's Tech Blog # the main title
+title: Jay Jo's Blog # the main title
 
-sidebar_title: Jay Jo's Tech Blog
+sidebar_title: Jay Jo's Blog
 
 tagline: Software Enginner | Lifetime learner 
 
-subdescription: Tech Blog | Graduate School Study Blog 
+subdescription: Tech Blog | Study Blog | Graduate School Study Blog 
 
 description: >- # used by seo meta and the atom feed
   Graduate School Study Blog
