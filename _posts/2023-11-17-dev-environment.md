@@ -1,7 +1,7 @@
 ---
 title: AI 학습을 위한 개발 환경 구축
 author: Jay Jo
-date: 2023-11-25 00:00:00 +09:00
+date: 2023-11-17 00:00:00 +09:00
 categories: [dev, env]
 tags: [dev, env]
 image: /assets/img/posts/dev-env.png

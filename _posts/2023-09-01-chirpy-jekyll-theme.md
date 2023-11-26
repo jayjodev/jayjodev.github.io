@@ -1,7 +1,7 @@
 ---
 title: Chirpy Theme for Blog
 author: Jay Jo
-date: 2023-11-19 00:00:00 +09:00
+date: 2023-09-01 00:00:00 +09:00
 categories: [blog]
 tags: [blog]
 image: /assets/img/posts/Chirpy Jekyll Theme for Blog.png

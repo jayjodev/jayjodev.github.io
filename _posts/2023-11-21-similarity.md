@@ -1,7 +1,7 @@
 ---
 title: 상관계수, 코사인 유사도, 자카드 계수
 author: Jay Jo
-date: 2023-11-25 00:00:00 +09:00
+date: 2023-11-21 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/similarity.png
