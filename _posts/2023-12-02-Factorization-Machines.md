@@ -24,9 +24,19 @@ Factorization Machines (FM)은 머신러닝에서 복잡한 변수 간 상호작
 
 FM 모델의 예측은 다음과 같은 수식으로 표현됩니다:
 
+$$
 \hat{y}(x) = w_0 + \sum_{i=1}^n w_i x_i + \sum_{i=1}^n \sum_{j=i+1}^n \langle v_i, v_j \rangle x_i x_j
+$$
 
-여기서 \( \hat{y}(x) \)는 예측값, \( x_i \)는 \( i \)번째 특징의 값, \( w_i \), \( v_i \), \( v_j \)는 모델 파라미터입니다.
+여기서:
+
+$$
+\begin{align*}
+& 1. \ \hat{y}(x) \text{는 예측값,} \\
+& 2. \ x_i \text{는 } i \text{번째 특징의 값,} \\
+& 3. \ w_i, v_i, v_j \text{는 모델 파라미터입니다.}
+\end{align*}
+$$
 
 ## Python 구현 예시
 
