@@ -1,7 +1,7 @@
 ---
 title: Kafka Manual Commit and Implementation in Java Spring
 author: Jay Jo
-date: 2023-11-15 00:00:00 +09:00
+date: 2023-09-09 00:00:00 +09:00
 categories: [Kafka]
 tags: [Kafka, Software Architecture]
 image: /assets/img/posts/kafka-manual.png

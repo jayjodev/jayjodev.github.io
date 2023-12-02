@@ -1,7 +1,7 @@
 ---
 title: Test Set and Train Set
 author: Jay Jo
-date: 2023-11-30 00:00:00 +09:00
+date: 2023-09-17 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/testset-trainset.png

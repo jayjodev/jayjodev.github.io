@@ -1,7 +1,7 @@
 ---
 title: Stochastic Gradient Descent (SGD)
 author: Jay Jo
-date: 2023-11-29 00:00:00 +09:00
+date: 2023-09-16 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/sgd.png

@@ -1,7 +1,7 @@
 ---
 title: 백그라운드에서 여러 TAR 파일 자동 압축 해제하기
 author: Jay Jo
-date: 2023-12-08 00:00:00 +09:00
+date: 2023-09-25 00:00:00 +09:00
 categories: [Linux]
 tags: [linux]
 image: /assets/img/posts/backgrand-tar-extraction.png
