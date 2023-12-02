@@ -1,7 +1,7 @@
 ---
 title: 버블 정렬 (Bubble Sort) 선택 정렬 (Selection Sort)
 author: Jay Jo
-date: 2023-09-04 00:00:00 +09:00
+date: 2023-11-05 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
 image: /assets/img/posts/basic-sort.png

@@ -1,7 +1,7 @@
 ---
 title: 기계학습 기초 (클러스터링)
 author: Jay Jo
-date: 2023-09-07 00:00:00 +09:00
+date: 2023-11-11 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/clustering.png

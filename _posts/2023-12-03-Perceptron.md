@@ -1,7 +1,7 @@
 ---
 title: Perceptron Model
 author: Jay Jo
-date: 2023-09-20 00:00:00 +09:00
+date: 2023-12-03 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/Perceptron-Model.png

@@ -1,7 +1,7 @@
 ---
 title: Markdown with Mathematical Expressions  
 author: Jay Jo
-date: 2023-09-15 00:00:00 +09:00
+date: 2023-11-27 00:00:00 +09:00
 categories: [tip]
 tags: [tip]
 image: /assets/img/posts/math-markdown.png

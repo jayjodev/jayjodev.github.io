@@ -1,7 +1,7 @@
 ---
 title: Factorization Machines (FM) 설명 및 Python 구현
 author: Jay Jo
-date: 2023-09-19 00:00:00 +09:00
+date: 2023-11-30 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/Factorization-Machines.png
