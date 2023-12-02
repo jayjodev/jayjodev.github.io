@@ -32,12 +32,21 @@ SGD는 다음과 같은 단계로 작동합니다:
 
 SGD의 업데이트 규칙은 다음과 같은 수식으로 나타낼 수 있습니다:
 
-\[ \theta = \theta - \eta \cdot \nabla_\theta J( \theta; x^{(i)}; y^{(i)} ) \]
+
+$$
+\theta = \theta - \eta \cdot \nabla_\theta J( \theta; x^{(i)}; y^{(i)} )
+$$
+
 
 여기서:
-- \( \theta \)는 매개변수,
-- \( \eta \)는 학습률,
-- \( \nabla_\theta J( \theta; x^{(i)}; y^{(i)} ) \)는 비용 함수 \( J \)에 대한 \( \theta \)의 그래디언트 입니다.
+
+$$
+\begin{align*}
+& 1. \ \theta \text{는 매개변수,} \\
+& 2. \ \eta \text{는 학습률,} \\
+& 3. \ \nabla_\theta J( \theta; x^{(i)}; y^{(i)} ) \text{는 비용 함수 } J \text{에 대한 } \theta \text{의 그래디언트 입니다.}
+\end{align*}
+$$
 
 ## 특징
 
