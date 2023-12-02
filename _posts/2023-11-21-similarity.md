@@ -7,6 +7,7 @@ tags: [AI]
 image: /assets/img/posts/similarity.png
 ---
 
+
 # 상관계수, 코사인 유사도, 자카드 계수
 
 ## 1. 상관계수 (Correlation Coefficient)
@@ -14,9 +15,9 @@ image: /assets/img/posts/similarity.png
 
 ### 수식
 피어슨 상관계수의 수식은 다음과 같습니다:
-```
-r = (n(∑xy) - (∑x)(∑y)) / sqrt([n∑x² - (∑x)²][n∑y² - (∑y)²])
-```
+$$
+r = \frac{n(\sum xy) - (\sum x)(\sum y)}{\sqrt{[n\sum x^2 - (\sum x)^2][n\sum y^2 - (\sum y)^2]}}
+$$
 여기서 `n`은 데이터 포인트의 수, `x`와 `y`는 각각 두 변수의 값입니다.
 
 ### 예제
@@ -27,9 +28,9 @@ r = (n(∑xy) - (∑x)(∑y)) / sqrt([n∑x² - (∑x)²][n∑y² - (∑y)²])
 
 ### 수식
 코사인 유사도의 수식은 다음과 같습니다:
-```
-cosine_similarity = (A · B) / (||A|| ||B||) = ∑(A_i * B_i) / (sqrt(∑A_i²) * sqrt(∑B_i²))
-```
+$$
+\text{cosine similarity} = \frac{A \cdot B}{||A|| ||B||} = \frac{\sum(A_i \times B_i)}{\sqrt{\sum A_i^2} \times \sqrt{\sum B_i^2}}
+$$
 여기서 `A`와 `B`는 두 벡터이고, `A_i`, `B_i`는 각 벡터의 요소입니다.
 
 ### 예제
@@ -40,9 +41,9 @@ cosine_similarity = (A · B) / (||A|| ||B||) = ∑(A_i * B_i) / (sqrt(∑A_i²) 
 
 ### 수식
 자카드 계수의 수식은 다음과 같습니다:
-```
-J(A, B) = |A ∩ B| / |A ∪ B|
-```
+$$
+J(A, B) = \frac{|A \cap B|}{|A \cup B|}
+$$
 여기서 `A`와 `B`는 각각 비교되는 두 집합입니다.
 
 ### 예제
