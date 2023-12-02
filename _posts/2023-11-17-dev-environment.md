@@ -65,6 +65,12 @@ conda list
 conda install 
 ```
 
+### Install tensorflow and surprise
+```
+conda install -c conda-forge scikit-surprise
+conda install tensorflow
+```
+
 ### 설치된 패키지 삭제
 ```
 conda remove {$package name}
