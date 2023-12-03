@@ -1,7 +1,7 @@
 ---
 title: Number of Latent Factors 최적의 잠재요인 수 (K) 찾기
 author: Jay Jo
-date: 2023-11-30 00:00:00 +09:00
+date: 2023-12-01 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/Number-of-Latent-Factors.png
