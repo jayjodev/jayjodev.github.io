@@ -4,7 +4,7 @@ author: Jay Jo
 date: 2023-12-07 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/decision-tree.png
+image: /assets/img/posts/divide-and-conquer.png
 ---
 
 # 분할 정복 (Divide and Conquer)
@@ -16,6 +16,11 @@ image: /assets/img/posts/decision-tree.png
 - **문제 분할:** 큰 문제를 여러 하위 문제로 나눕니다.
 - **정복:** 각 하위 문제를 독립적으로 해결합니다.
 - **결합:** 하위 문제의 해결책을 결합하여 전체 문제의 해결책을 도출합니다.
+
+- 방법: 문제를 더 작고 관리하기 쉬운 하위 문제로 나누고, 이를 독립적으로 해결한 다음, 그 결과를 결합하여 전체 문제의 해를 도출합니다.
+- 하위 문제: 각 하위 문제는 독립적이며, 서로 겹치지 않습니다.
+- 적용 예: 병합 정렬(Merge Sort), 퀵 정렬(Quick Sort), 이진 탐색(Binary Search) 등.
+- 효율성: 중복된 하위 문제가 없기 때문에, 한 번 계산된 하위 문제를 다시 계산할 필요가 없습니다.
 
 ## 예시: 병합 정렬 (Merge Sort)
 
