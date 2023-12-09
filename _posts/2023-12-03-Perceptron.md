@@ -4,7 +4,7 @@ author: Jay Jo
 date: 2023-12-03 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
-image: /assets/img/posts/Perceptron-Model.png
+image: /assets/img/posts/perceptron-model.png
 ---
 
 # 퍼셉트론 모델
