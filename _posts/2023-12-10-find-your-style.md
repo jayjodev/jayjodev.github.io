@@ -7,7 +7,7 @@ tags: [life, motivation]
 image: /assets/img/posts/find-your-style.png
 ---
 
-원본: https://www.youtube.com/watch?v=IPDAFffVsv0
+참고: [YouTube Video](https://www.youtube.com/watch?v=IPDAFffVsv0)
 
 * 하는 일에 최선을 다해야 합니다. 적당히 좋은 성과를 내려고 하지 마세요.
 
