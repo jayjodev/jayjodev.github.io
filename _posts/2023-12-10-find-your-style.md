@@ -4,7 +4,7 @@ author: Jay Jo
 date: 2023-12-10 00:00:00 +09:00
 categories: [life]
 tags: [life, motivation]
-image: /assets/img/posts/find-your style.png
+image: /assets/img/posts/find-your-style.png
 ---
 
 원본: https://www.youtube.com/watch?v=IPDAFffVsv0
