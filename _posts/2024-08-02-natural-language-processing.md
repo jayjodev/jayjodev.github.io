@@ -1,7 +1,7 @@
 ---
 title: natural-language-processing
 author: Jay Jo
-date: 2023-08-01 00:00:00 +09:00
+date: 2024-08-01 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
 image: /assets/img/posts/natural-language-processing.png
