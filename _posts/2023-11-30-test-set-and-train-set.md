@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-11-30 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
-image: /assets/img/posts/testset-trainset.png
 ---
 
 ### 테스트 셋과 트레인 셋 분리의 중요성:

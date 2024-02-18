@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-12-06 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/decision-tree.png
 ---
 
 # 결정 트리를 사용한 정렬 알고리즘 분석

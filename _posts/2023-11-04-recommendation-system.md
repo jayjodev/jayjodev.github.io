@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-11-04 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
-image: /assets/img/posts/Recommendation-system.png
 ---
 
 ## 추천시스템 

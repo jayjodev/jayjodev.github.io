@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-12-04 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/Dynamic-Programming.png
 ---
 
 # 동적 계획법 (Dynamic Programming)

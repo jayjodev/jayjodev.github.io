@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-11-05 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/basic-sort.png
 ---
 
 # 기본 정렬 알고리즘 [버블 정렬(Bubble Sort), 선택 정렬(Selection Sort)]

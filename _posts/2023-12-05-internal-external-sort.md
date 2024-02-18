@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-12-05 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/internal-external-sort.png
 ---
 
 # 내부 정렬과 외부 정렬 비교

@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-11-07 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/basic-sort1.png
 ---
 
 # 기본 정렬 알고리즘 [삽입 정렬(insertion-sort) 및 쉘 정렬(shell-sort)]

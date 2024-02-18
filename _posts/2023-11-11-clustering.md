@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-11-11 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
-image: /assets/img/posts/clustering.png
 ---
 
 # 클러스터링(Clustering)

@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-12-07 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/divide-and-conquer.png
 ---
 
 # 분할 정복 (Divide and Conquer)

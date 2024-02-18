@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-12-08 00:00:00 +09:00
 categories: [Algorithms]
 tags: [algorithms]
-image: /assets/img/posts/main-algorithms.png
 ---
 
 # 주요 알고리즘 설계 기법들

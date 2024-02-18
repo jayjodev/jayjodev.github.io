@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-12-02 00:00:00 +09:00
 categories: [Artificial Intelligence]
 tags: [AI]
-image: /assets/img/posts/Factorization-Machines.png
 ---
 
 # Factorization Machines (FM) 설명 및 Python 구현
