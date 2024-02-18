@@ -1,10 +1,9 @@
 ---
-title: Homebrew On Mac 설치 및 설정 가이드
+title: Homebrew On Mac (M1, M2, M3) 설치 및 설정 가이드
 author: Jay Jo
 date: 2024-02-17 00:00:00 +09:00
 categories: [tip]
 tags: [tip]
-image: /assets/img/posts/homebrew.jpg
 ---
 
 # Homebrew On M3 설치 및 설정 가이드
