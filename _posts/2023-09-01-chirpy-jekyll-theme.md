@@ -4,7 +4,6 @@ author: Jay Jo
 date: 2023-09-01 00:00:00 +09:00
 categories: [blog]
 tags: [blog]
-image: /assets/img/posts/Chirpy Jekyll Theme for Blog.png
 ---
 
 # Chirpy Theme Blog 시작하기
