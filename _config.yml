@@ -18,16 +18,16 @@ title: Jay Jo's Blog # the main title
 
 sidebar_title: Jay Jo's Blog
 
-tagline: Software Enginner | Lifetime learner 
+tagline: Software Enginner | Lifetime Learner 
 
-subdescription: Tech Blog | Study Blog | Graduate School Study Blog 
+subdescription: Life Blog | Tech Blog | Graduate School Study Blog 
 
 description: >- # used by seo meta and the atom feed
   Graduate School Study Blog
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://jayjodev.github.io"
 
 github:
   username: jayjodev # change to your github username
