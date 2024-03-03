@@ -6,7 +6,6 @@ categories: [Artificial Intelligence]
 tags: [AI]
 ---
 
-
 # 상관계수, 코사인 유사도, 자카드 계수
 
 ## 1. 상관계수 (Correlation Coefficient)
