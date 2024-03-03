@@ -9,7 +9,7 @@ image: /assets/img/posts/find-your-style.png
 
 참고: [YouTube Video](https://www.youtube.com/watch?v=IPDAFffVsv0)
 
-* 하는 일에 최선을 다해야 합니다. 적당히 좋은 성과를 내려고 하지 마세요.
+## 하는 일에 최선을 다해야 합니다. 적당히 좋은 성과를 내려고 하지 마세요.
 
 결국 올바른 문제, 제대로된 방법, 적당한 때 결국 이 3개가 전부입니다. 
 
