@@ -20,7 +20,6 @@ tags: [AI]
 
 ![perceptron](../assets/img/posts/perceptron.png "Perceptron Model")
 
-
 ## 퍼셉트론의 작동 원리
 1. **입력값과 가중치**: 각 입력값에는 가중치가 곱해져, 각 입력의 중요도를 반영합니다.
 2. **합산 및 활성화 함수**: 가중치가 적용된 입력값들의 합에 활성화 함수를 적용해 최종 출력을 결정합니다.
@@ -28,7 +27,7 @@ tags: [AI]
 
 ## Python 코드 예시
 
-\`\`\`python
+```python
 import numpy as np
 
 class Perceptron:
@@ -60,7 +59,7 @@ class Perceptron:
 
     def _unit_step_func(self, x):
         return np.where(x >= 0, 1, 0)
-\`\`\`
+```
 
 ## 퍼셉트론의 한계
 - 마빈 민스키와 시모어 페퍼트는 1969년에 퍼셉트론이 XOR 문제와 같은 일부 간단한 비선형 문제를 해결할 수 없다는 것을 지적했습니다.
