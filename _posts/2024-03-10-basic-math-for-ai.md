@@ -3,7 +3,7 @@ title: Python을 이용한 기본 통계 계산
 author: Jay Jo
 date: 2024-03-10 00:00:00 +09:00
 categories: [math]
-tags: [tip]
+tags: [math]
 ---
 
 ## 데이터 (Mean)
