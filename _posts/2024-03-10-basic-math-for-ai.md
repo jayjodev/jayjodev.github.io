@@ -2,8 +2,8 @@
 title: Python을 이용한 기본 통계 계산
 author: Jay Jo
 date: 2024-03-10 00:00:00 +09:00
-categories: [math]
-tags: [math]
+categories: [Mathematics]
+tags: [Mathematics]
 ---
 
 ## 데이터
