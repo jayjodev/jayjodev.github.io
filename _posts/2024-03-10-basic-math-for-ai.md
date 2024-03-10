@@ -6,7 +6,7 @@ categories: [math]
 tags: [math]
 ---
 
-## 데이터 (Mean)
+## 데이터
 
 ```python
 original_a = [79, 54, 74, 62, 85, 55, 88, 85, 51, 85, 54, 84, 78, 47]
