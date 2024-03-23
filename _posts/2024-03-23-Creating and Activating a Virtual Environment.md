@@ -1,14 +1,10 @@
 ---
-title: Python Package Installation Guide
+title: Creating and Activating a Virtual Environment
 author: Jay Jo
 date: 2024-03-23 00:00:00 +09:00
 categories: [Tip]
 tags: [tip]
 ---
-
-# Python Package Installation Guide
-
-## Creating and Activating a Virtual Environment
 
 1. **Create a Virtual Environment:**  
    Open your terminal and execute the following command to create a virtual environment. Replace `myenv` with your preferred environment name.
