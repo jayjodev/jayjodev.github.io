@@ -1,5 +1,5 @@
 ---
-title: natural-language-processing
+title: Python Package Installation Guide
 author: Jay Jo
 date: 2024-03-23 00:00:00 +09:00
 categories: [Tip]
