@@ -6,8 +6,6 @@ categories: [Kafka]
 tags: [Kafka, Software Architecture]
 ---
 
-# Kafka Manual Commit and Implementation in Java Spring
-
 Understanding Kafka's manual commit feature is essential, especially when integrating with Java Spring. This document covers the basics of manual commit in Kafka and how to apply it in a Java Spring application.
 
 ## Kafka Manual Commit Explained

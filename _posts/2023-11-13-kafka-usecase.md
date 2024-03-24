@@ -6,8 +6,6 @@ categories: [Kafka]
 tags: [Kafka, Software Architecture]
 ---
 
-# Kafka Use Cases
-
 Kafka, developed at LinkedIn, is widely used for various data processing and handling tasks. Below are its key use cases:
 
 ## 1. **Activity Tracking**
