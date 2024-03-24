@@ -2,7 +2,7 @@
 title: Integrating Disqus Comments in Chirpy Theme for Jekyll
 author: Jay Jo
 date: 2024-03-02 00:00:00 +09:00
-categories: [life]
+categories: [tip]
 tags: [tip]
 ---
 
