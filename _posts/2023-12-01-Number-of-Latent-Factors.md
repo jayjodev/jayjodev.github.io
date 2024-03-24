@@ -57,7 +57,6 @@ print(f'Optimal number of latent factors K: {optimal_K}')
 ```
 이 코드는 RMSE(Root Mean Square Error)를 사용하여 각 K 값에 대한 모델의 성능을 평가합니다. 가장 낮은 RMSE 값을 가진 K가 최적의 값으로 선택됩니다.
 
-## 결론
 ### 적절한 잠재요인 수 
 K를 찾는 것은 추천 시스템의 성능에 큰 영향을 미칩니다. 이 과정은 데이터의 특성과 요구 사항에 따라 달라질 수 있으므로, 여러 K 값에 대해 실험하는 것이 중요합니다.
 

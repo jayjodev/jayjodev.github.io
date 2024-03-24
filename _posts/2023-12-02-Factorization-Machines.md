@@ -6,8 +6,6 @@ categories: [Artificial Intelligence]
 tags: [AI]
 ---
 
-# Factorization Machines (FM) 설명 및 Python 구현
-
 ## 개요
 
 Factorization Machines (FM)은 머신러닝에서 복잡한 변수 간 상호작용을 모델링하는 효과적인 방법입니다. 이 기법은 특히 추천 시스템, 등급 예측, 클릭률 예측과 같은 분야에서 유용하며, 희소 데이터 세트에서 강력한 성능을 발휘합니다.
