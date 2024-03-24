@@ -87,8 +87,3 @@ Required-by:
 ```
 
 Replace `[package-name]` with the name of the package you're interested in. This command provides detailed information about the package, including its location on your system.
-
-
-```
-jupyter lab
-```
