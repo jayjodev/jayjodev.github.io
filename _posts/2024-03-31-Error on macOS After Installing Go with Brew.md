@@ -13,9 +13,9 @@ After installing Go with Homebrew on macOS, if you encounter the `zsh: command n
 
 First, ensure that Go is indeed installed through Homebrew:
 
-\`\`\`sh
+```sh
 brew list go
-\`\`\`
+```
 
 If Go is listed, it means the installation was successful.
 
@@ -23,9 +23,9 @@ If Go is listed, it means the installation was successful.
 
 Find out where Homebrew has installed Go:
 
-\`\`\`sh
+```sh
 brew --prefix go
-\`\`\`
+```
 
 This command should return the directory where Go is installed, like `/usr/local/opt/go`.
 
@@ -35,15 +35,15 @@ You need to add Go's binary directory to your PATH. If Go is installed in `/usr/
 
 Open your `.zshrc` file:
 
-\`\`\`sh
+```sh
 nano ~/.zshrc
-\`\`\`
+```
 
 Add the following line to the file:
 
-\`\`\`sh
+```sh
 export PATH="/usr/local/opt/go/bin:$PATH"
-\`\`\`
+```
 
 Save and close the file.
 
@@ -51,17 +51,17 @@ Save and close the file.
 
 Apply the changes to your current terminal session:
 
-\`\`\`sh
+```sh
 source ~/.zshrc
-\`\`\`
+```
 
 ## 5. Verify PATH Update
 
 Check if the PATH update is successful:
 
-\`\`\`sh
+```sh
 echo $PATH
-\`\`\`
+```
 
 You should see `/usr/local/opt/go/bin` in the output.
 
@@ -69,8 +69,8 @@ You should see `/usr/local/opt/go/bin` in the output.
 
 Finally, test if the `go` command is recognized:
 
-\`\`\`sh
+```sh
 go version
-\`\`\`
+```
 
 This command should output the installed version of Go, confirming that the issue is resolved.
