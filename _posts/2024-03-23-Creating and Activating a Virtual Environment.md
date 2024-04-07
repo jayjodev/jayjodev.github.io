@@ -27,6 +27,12 @@ tags: [tip]
 
    Once activated, your terminal prompt will change to indicate that you are in a virtual environment.
 
+   ```
+   python3 -m venv jay-python
+   source jay-python/bin/activate
+   (jay-python) ➜ pip3 install torch
+   ```
+
 3. **Deactivate the Virtual Environment:**  
 
    - On macOS or Linux:
