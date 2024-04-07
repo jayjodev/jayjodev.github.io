@@ -1,13 +1,11 @@
 ---
-title: "Resolving the 'zsh: command not found: go' Error on macOS After Installing Go with Brew"
+title: PyTorch를 이용한 AI 모델 학습 환경 설정
 
 author: Jay Jo
 date: 2024-04-07 00:00:00 +09:00
 categories: [ai]
 tags: [ai]
 ---
-
-# PyTorch를 이용한 AI 모델 학습 환경 설정
 
 PyTorch는 딥러닝 모델을 구축하고 학습시키기 위한 인기 있는 라이브러리 중 하나입니다. 모델 학습 속도를 높이기 위해 GPU를 사용하는 것이 일반적이며, PyTorch는 NVIDIA GPU를 사용할 때 CUDA를 활용합니다. 최근에는 Apple Silicon(M1/M2/M3 칩)을 사용하는 Mac에서 Metal Performance Shaders(MPS) 백엔드를 사용할 수도 있게 되었습니다. 여기서는 PyTorch를 사용하여 현재 시스템에서 사용 가능한 최적의 장치를 자동으로 선택하고 사용하는 방법을 소개합니다.
 
