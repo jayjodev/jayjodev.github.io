@@ -32,7 +32,7 @@ GPU가 없는 시스템 또는 다른 유형의 GPU: Using device: cpu
 이 코드 스니펫은 PyTorch 기반의 AI 모델을 개발할 때 초기 설정 단계에서 매우 유용합니다. 각 사용자의 환경에 맞게 최적의 장치를 자동으로 선택하여 효율적인 모델 학습을 도모할 수 있게 합니다.
 
 활용 예시
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
