@@ -1,6 +1,5 @@
 ---
-title: Activation Function (활성함수)
-
+title: 활성 함수 (Activation Functions)
 author: Jay Jo
 date: 2024-04-30 00:00:00 +09:00
 categories: [ai]
