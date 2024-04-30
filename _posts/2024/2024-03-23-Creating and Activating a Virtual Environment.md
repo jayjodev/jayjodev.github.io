@@ -10,7 +10,7 @@ tags: [tip]
    Open your terminal and execute the following command to create a virtual environment. Replace `myenv` with your preferred environment name.
 
    ```bash
-   python3 -m venv myenv
+   python3 -m venv ~/myenv
    ```
 
 2. **Activate the Virtual Environment:**  
@@ -18,19 +18,15 @@ tags: [tip]
 
    - On macOS or Linux:
      ```bash
-     source myenv/bin/activate
-     ```
-   - On Windows:
-     ```cmd
-     myenv\Scripts\activate
+     source ~/myenv/bin/activate
      ```
 
    Once activated, your terminal prompt will change to indicate that you are in a virtual environment.
 
    ```
-   python3 -m venv jay-python
-   source jay-python/bin/activate
-   (jay-python) ➜ pip3 install torch
+   python3 -m venv ~/myenv
+   source ~/myenv/bin/activate
+   (myenv) ➜ pip3 install torch
    ```
 
 3. **Deactivate the Virtual Environment:**  
