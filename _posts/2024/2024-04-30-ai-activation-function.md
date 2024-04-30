@@ -1,5 +1,5 @@
 ---
-title:1. Activation Function (활성함수)
+title: Activation Function (활성함수)
 
 author: Jay Jo
 date: 2024-04-30 00:00:00 +09:00
